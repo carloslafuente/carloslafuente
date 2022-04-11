@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flask, Microservices and Software Architecture**
 
-- 👨‍💻 All of my personal projects are available at [https://carlos-lafuente.web.app/](https://carlos-lafuente.web.app/)
+- 👨‍💻 All of my personal projects are available at [https://carloslafuentedev.com/](https://carlos-lafuente.web.app/)
 
 - 📝 I occasionally write articles on [https://carloslafuentedev.wordpress.com/](https://carloslafuentedev.wordpress.com/)
 
