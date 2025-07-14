@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">A passionate fullstack developer from Bolivia</h3>
+<h3 align="center">A passionate fullstack developer from Chile/Bolivia</h3>
 
-- 🔭 I’m currently working on [escala SaaS](https://escala.com/) platform
+- 🔭 I’m currently working on [FX Replay](https://www.fxreplay.com/) the best backtesting platform
 
-- 🌱 I’m currently learning **Flask, Microservices and Software Architecture**
+- 🌱 I’m currently learning about **AI**
 
-- 👨‍💻 All of my personal projects are available at [https://carloslafuentedev.com/](https://carlos-lafuente.web.app/)
+- 👨‍💻 All of my personal projects are available at [https://carlos-lafuente.web.app/](https://carlos-lafuente.web.app/)
 
 - 📝 I occasionally write articles on [https://carloslafuentedev.wordpress.com/](https://carloslafuentedev.wordpress.com/)
 
-- 💬 Ask me about **angular, Vue.js and .Net Core**
+- 💬 Ask me about **Angular, Node.js, Python, .Net Core, Software Architecture and Tech in general**
 
 - 📫 How to reach me **carlos.lafuente.dev@gmail.com**
 
